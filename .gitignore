@@ -1,3 +1,4 @@
 .venv/
 __pycache__/
+embeddings/
 data/Human_vs_LLM_Text_Corpus.csv
