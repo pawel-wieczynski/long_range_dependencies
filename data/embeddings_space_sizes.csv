@@ -1,0 +1,19 @@
+Language,Vector size,Vocabulary size
+Catalan,100,799020
+Danish,100,1655886
+German,100,4946997
+Greek,100,1183194
+English,100,4027169
+Spanish,100,2656057
+Finnish,100,2433286
+French,100,2567698
+Hungarian,100,2702663
+Italian,100,2469122
+Japanese,100,3989605
+Latin,100,555381
+Dutch,100,2610658
+Norwegian,100,223763
+Polish,100,4420598
+Portugese,100,2536452
+Swedish,100,3010472
+Chinese,100,1935503
