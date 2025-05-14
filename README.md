@@ -62,13 +62,14 @@ Results of the experiments are saved in the `results/` directory:
  1. `LRDEstimator.py`: class for calculating cosine correlation. There are also methods for calculating Pearson correlation and performing permutation tests for cosine correlation.
  2. `LRD_example.ipynb`: dummy example with step-by-step calculation of cosine correlation.
  3. `LRD_SPGC_example.ipynb`: calculation of cosine correlation for one text from the SPGC corpus. Charts generated there are used in the paper.
+ 4. `LRD_HLLMTC_example.ipynb`: calculation of cosine correlation for one text from the Human vs LLM corpus. Charts generated there are used in the paper.
 
 ## Citation
 
 If you use this code or the findings in your research, please cite:
 
 ```bibtex
-@article{author2023longrange,
+@article{WieczynskiDebowski2025,
   title={Long-Range Dependence in Word Time Series: The Cosine Correlation of Embeddings},
   author={Wieczyński, P. and Dębowski, Ł.},
   journal={},
@@ -78,7 +79,3 @@ If you use this code or the findings in your research, please cite:
   pages={}
 }
 ```
-
-## License
-
-[Specify your license here]
